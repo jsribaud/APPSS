@@ -1,6 +1,6 @@
 # APPSS
 
-This repository contains plotting and analysis resources for the Arecibo Pisces-Perseus Supercluster Survey.
+This repository contains plotting and analysis resources for the Arecibo Pisces-Perseus Supercluster Survey, the primary science project of the Undergraduate ALFALFA Team.
 
 
 ## notebooks
